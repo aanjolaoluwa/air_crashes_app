@@ -90,7 +90,7 @@ Based on the analysis in `analysis.ipynb`, notable findings include:
 ```bash
 git clone https://github.com/aanjolaoluwa/air-crashes-analysis.git
 cd air-crashes-analysis
-'''
+```
 #### 2. Install dependencies
 pip install -r requirements.txt
 
