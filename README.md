@@ -7,8 +7,12 @@ The project combines **data cleaning, exploratory data analysis (EDA)** in Jupyt
 
 ## 📂 Project Structure
 ├── air_crashes_cleaned_data.xlsx # Cleaned dataset of global air crashes
+
 ├── aircrahes_analysis.ipynb # Jupyter Notebook for data exploration & analysis
+
 ├── app.py # Streamlit dashboard application
+
+├── requirements.txt # text file containing all libaries used
 
 
 ---
