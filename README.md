@@ -100,10 +100,15 @@ streamlit run app.py
 ---
 
 ## ✍️ Author
+
 Developed by Anjolaoluwa Adekomi
+
 📧 Contact: aadekomi.2201826@stu.cu.edu.ng
+
 🔗 GitHub: https://github.com/aanjolaoluwa/
+
 🔗 LinkedIn: https://linkedin.com/in/anjolaoluwa-adekomi-7b2548343/
+
 🔗 Portfolio: https://anjolaoluwadekomiportfolio.my.canva.site/
 
 
