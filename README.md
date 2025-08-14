@@ -90,8 +90,10 @@ Based on the analysis in `analysis.ipynb`, notable findings include:
 ```bash
 git clone https://github.com/aanjolaoluwa/air-crashes-analysis.git
 cd air-crashes-analysis
+'''
 #### 2. Install dependencies
 pip install -r requirements.txt
+
 #### 3. Run the Streamlit app (For the best experience, please view this app in Dark Mode)
 streamlit run app.py
 
